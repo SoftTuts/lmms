@@ -44,7 +44,7 @@
     <message>
         <location filename="../../src/gui/dialogs/about_dialog.ui" line="190"/>
         <source>Involved</source>
-        <translation type="unfinished"/>
+		<translation>Involved</translation>
     </message>
     <message>
         <location filename="../../src/gui/dialogs/about_dialog.ui" line="196"/>
@@ -215,7 +215,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     <message>
         <location filename="../../src/core/audio/AudioJack.cpp" line="107"/>
         <source>JACK client restarted</source>
-        <translation type="unfinished"/>
+		<translation>जैक क्लाइंट पुन: प्रारंभ</translation>
     </message>
     <message>
         <location filename="../../src/core/audio/AudioJack.cpp" line="108"/>
@@ -248,7 +248,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     <message>
         <location filename="../../src/core/audio/AudioOss.cpp" line="330"/>
         <source>Device</source>
-        <translation type="unfinished"/>
+		<translation>उपकरण</translation>
     </message>
     <message>
         <location filename="../../src/core/audio/AudioOss.cpp" line="342"/>
@@ -266,7 +266,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     <message>
         <location filename="../../src/core/audio/AudioPortAudio.cpp" line="422"/>
         <source>Device</source>
-        <translation type="unfinished"/>
+        <translation>उपकरण</translation>
     </message>
 </context>
 <context>
@@ -274,7 +274,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     <message>
         <location filename="../../src/core/audio/AudioPulseAudio.cpp" line="317"/>
         <source>Device</source>
-        <translation type="unfinished"/>
+        <translation>उपकरण</translation>
     </message>
     <message>
         <location filename="../../src/core/audio/AudioPulseAudio.cpp" line="329"/>
@@ -287,7 +287,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     <message>
         <location filename="../../src/core/audio/AudioSdl.cpp" line="331"/>
         <source>Device</source>
-        <translation type="unfinished"/>
+        <translation>उपकरण</translation>
     </message>
 </context>
 <context>
@@ -295,7 +295,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     <message>
         <location filename="../../src/core/audio/AudioSndio.cpp" line="196"/>
         <source>Device</source>
-        <translation type="unfinished"/>
+        <translation>उपकरण</translation>
     </message>
     <message>
         <location filename="../../src/core/audio/AudioSndio.cpp" line="208"/>
@@ -313,7 +313,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     <message>
         <location filename="../../src/core/audio/AudioSoundIo.cpp" line="465"/>
         <source>Device</source>
-        <translation type="unfinished"/>
+        <translation>उपकरण</translation>
     </message>
 </context>
 <context>
@@ -477,7 +477,7 @@ If you&apos;re interested in translating LMMS in another language or want to imp
     <message>
         <location filename="../../src/gui/editors/AutomationEditor.cpp" line="1900"/>
         <source>Zoom controls</source>
-        <translation type="unfinished"/>
+		<translation>ज़ूम नियंत्रण</source>
     </message>
     <message>
         <location filename="../../src/gui/editors/AutomationEditor.cpp" line="1907"/>
